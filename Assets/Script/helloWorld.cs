@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class helloWorld : MonoBehaviour
 {
+    public Vector3 postion;
     // Start is called before the first frame update
     void Start()
     {
